@@ -40,13 +40,14 @@ img {
 body {
   display: flex;
   justify-self: center;
+  align-items: center;
   min-height: 100vh;
   background-color: var(--yellow);
 }
 
 .card {
   min-width: 327px;
-  max-width: 377px;
+  max-width: 383px;
   margin: 150px var(--spacing-4);
   padding: var(--spacing-4);
   background-color: var(--white);
@@ -83,6 +84,12 @@ body {
   font-size: var(--font-size-3);
   font-weight: 800;
   color: var(--gray-950);
+  transition: color 0.3s ease;
+  cursor: pointer;
+}
+
+.card__title:hover {
+  color: var(--yellow);
 }
 
 .card__description {
