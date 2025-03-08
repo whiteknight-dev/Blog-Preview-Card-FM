@@ -51,7 +51,10 @@ body {
   margin: 150px var(--spacing-4);
   padding: var(--spacing-4);
   background-color: var(--white);
+  border-top: 1px solid var(--gray-950);
+  border-left: 1px solid var(--gray-950);
   border-radius: 20px;
+  box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
 }
 
 .card__hero {
