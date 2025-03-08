@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/whiteknight-dev/Blog-Preview-Card-FM)
-- Live Site URL: [](https://whiteknight-dev.github.io/Blog-Preview-Card-FM/)
+- Solution URL: [Link](https://github.com/whiteknight-dev/Blog-Preview-Card-FM)
+- Live Site URL: [Link](https://whiteknight-dev.github.io/Blog-Preview-Card-FM/)
 
 ## My process
 
